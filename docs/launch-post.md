@@ -8,7 +8,7 @@
 > decomposition of 4×4 matrix multiplication over GF(2). MIT-licensed,
 > end-to-end reproducible from a fresh clone + an Anthropic API key.
 
-Repo: https://github.com/yusuf4lp/zero
+Repo: https://github.com/4lptek1n/zero
 
 ---
 
@@ -62,7 +62,7 @@ AlphaEvolve / FunSearch-style systems.
    it's an evolutionary loop where the mutation operator is Claude Opus.
    matches the optimal sorting network for N=8 and the Strassen-bound
    49-product 4x4 matmul over GF(2).
-   👉 https://github.com/yusuf4lp/zero
+   👉 https://github.com/4lptek1n/zero
 
 2. each generation, every island runs tournament selection + mutation,
    and in parallel the top-k get shown to the LLM at multiple

@@ -168,7 +168,7 @@ response cache is committed (or can be regenerated) so re-runs cost zero
 tokens.
 
 ```bash
-git clone https://github.com/yusuf4lp/zero.git
+git clone https://github.com/4lptek1n/zero.git
 cd zero
 pip install -e ".[dev]"
 
@@ -258,10 +258,10 @@ zero/
 
 ```bibtex
 @software{keser_zero_2026,
-  author  = {Keser, Yusuf},
+  author  = {Keser, Alptekin},
   title   = {{zero}: an open-source AlphaEvolve-style evolutionary algorithm discovery engine},
   year    = {2026},
-  url     = {https://github.com/yusuf4lp/zero},
+  url     = {https://github.com/4lptek1n/zero},
   version = {0.1.0}
 }
 ```
@@ -288,4 +288,4 @@ MIT — see [LICENSE](LICENSE).
 
 ## Contact
 
-Yusuf Keser — kesermkkdkd@gmail.com
+Alptekin Keser — keseralptekin@gmail.com
